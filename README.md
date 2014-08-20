@@ -1,4 +1,4 @@
 PhoenixUmbrella
 ===============
 
-** TODO: Add description **
+** Just playing around with Elixir umbrella applications and Phoenix
