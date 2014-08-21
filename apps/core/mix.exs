@@ -27,8 +27,7 @@ defmodule Core.Mixfile do
   defp deps do
     [
       {:phoenix, github: "phoenixframework/phoenix"},
-      {:cowboy, "~> 1.0.0"},
-      # {:core, in_umbrella: true}
+      {:cowboy, "~> 1.0.0"}
     ]
   end
 end
